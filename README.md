@@ -5,6 +5,14 @@
 
 ### Google系列
 
+| 模型名称 | 简介                                                         | 论文                                                         | 代码                                                         | Demo                                                         |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| mT5      | mT5是一种多语言文本到文本转换模型，是Google Brain团队于2020年提出的。**mT5是T5（Text-to-Text Transfer Transformer）模型的扩展版本**，旨在支持多种语言的自然语言处理任务。 | [[论文原文](https://aclanthology.org/2021.naacl-main.41.pdf)] | [[代码](https://github.com/google-research/multilingual-t5)] | [[Demo](https://huggingface.co/docs/transformers/model_doc/mt5)] |
+|          |                                                              |                                                              |                                                              |                                                              |
+|          |                                                              |                                                              |                                                              |                                                              |
+
+
+
 #### mT5：Multilingual T5
 
 &emsp;mT5是一种多语言文本到文本转换模型，是Google Brain团队于2020年提出的。**mT5是T5（Text-to-Text Transfer Transformer）模型的扩展版本**，旨在支持多种语言的自然语言处理任务。
