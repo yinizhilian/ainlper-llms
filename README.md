@@ -1,8 +1,10 @@
-随着人工智能技术的飞速发展，各种大模型层出不穷，为解决复杂问题提供了强大的支持。这些大型模型在各个领域取得了显著的成功，如计算机视觉、自然语言处理、语音识别等。为此，本文旨在整理目前所有的大语言模型相关内容，例如：大模型论文、大模型Demo、大模型测试数据集、大模型评估方法等，供大家参考分享。
+随着人工智能技术的飞速发展，各种大模型层出不穷，为解决复杂问题提供了强大的支持。这些大型模型在各个领域取得了显著的成功，如计算机视觉、自然语言处理、语音识别等。为此，本文旨在整理目前所有的大语言模型相关内容，例如：大模型论文（LLaMA、Alpaca、Vicuna、GLM、Bard、PaLM1、PaLM2 等）、大模型Demo、大模型测试数据集、大模型评估方法等。
+
+此项目长期不定时更新，欢迎watch和fork！不过给个star⭐就更好了❤️。
 
 知乎地址：[**ShuYini**](https://www.zhihu.com/people/wangjini521/activities)
 
-微信公众号: [**AINLPer**](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247487079&idx=1&sn=4aa0c38c7701148f28f67bc66a291b00&chksm=fac399bbcdb410ad4517460b96a071c08c3854d67d1beafa4caa424e9c12791dc1955be1f56e&token=802874842&lang=zh_CN#rd)
+微信公众号: [**AINLPer**（每日更新，欢迎关注）](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247487079&idx=1&sn=4aa0c38c7701148f28f67bc66a291b00&chksm=fac399bbcdb410ad4517460b96a071c08c3854d67d1beafa4caa424e9c12791dc1955be1f56e&token=802874842&lang=zh_CN#rd)
 
 ### Google系列 
 
