@@ -31,6 +31,8 @@
 | **GLM-130B** | 2023     | GLM-130B: An Open Bilingual Pre-trained Model<br /><br />GLM-130B，一种具有 1300 亿个参数的双语（英文和中文）预训练语言模型。在相关基准测试中始终显着优于最大的中文语言模型 ERNIE TITAN 3.0 260B。允许在 4×RTX 3090 (24G) 或 8×RTX 2080 Ti (11G) GPU 上进行有效推理。 | [[Paper](https://arxiv.org/abs/2210.02414)] | [[Code](https://github.com/THUDM/GLM-130B)]   | [[Demo](https://huggingface.co/spaces/THUDM/GLM-130B)]      |
 | **GLM-6B**   | 2023     | GLM: General Language Model Pretraining with Autoregressive Blank Infilling<br /><br />ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。结合模型量化技术，用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低**只需 6GB 显存**）。 ChatGLM-6B 使用了和 ChatGPT 相似的技术，针对中文问答和对话进行了优化。 | [[Paper](https://arxiv.org/abs/2103.10360)] | [[Code](https://github.com/THUDM/ChatGLM-6B)] | [[部署](https://mp.weixin.qq.com/s/2t1B5ApHrWAE5Qegy8a8BA)] |
 
+
+
 ### Meta AI
 
 | 模型名称  | 发布时间 | 模型概述                                                     |                      原文                       | 代码                                                | Demo |
