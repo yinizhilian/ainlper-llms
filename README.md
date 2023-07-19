@@ -35,10 +35,13 @@
 
 ### Meta AI
 
-| 模型名称  | 发布时间 | 模型概述                                                     |                      原文                       | 代码                                                | Demo |
-| --------- | -------- | :----------------------------------------------------------- | :---------------------------------------------: | --------------------------------------------------- | ---- |
-| **LIMA**  | 2023     | LIMA: Less Is More for Alignment<br /><br />在没有任何RLHF的情况下，使用1000个精心筛选的提示和响应**「对LLaMA-65B进行微调得到了LIMA模型」**，实验表明该模型展现出了非常强大的性能，最后作者指出**几乎所有大型语言模型的知识都是在预训练期间学习的，仅需要有限的指导调整数据来教模型产生高质量的输出**。 | [[Paper](https://arxiv.org/pdf/2305.11206.pdf)] | /                                                   | /    |
-| **LLaMA** | 2023     | LLaMA: Open and Efficient Foundation Language Models<br /><br />LLaMA是Meta发布的一组基础语言模型，参数范围从 7B 到 65B，使用公开可用的数据集来训练最先进的模型。 LLaMA-13B 在大多数基准测试中都优于 GPT-3 (175B)，而 LLaMA-65B 可与最佳模型 Chinchilla-70B 和 PaLM-540B 竞争。 |   [[Paper](https://arxiv.org/abs/2302.13971)]   | [[Code](https://github.com/facebookresearch/llama)] | /    |
+| 模型名称    | 发布时间  | 模型概述                                                     |                             原文                             | 代码                                                | Demo |
+| ----------- | --------- | :----------------------------------------------------------- | :----------------------------------------------------------: | --------------------------------------------------- | ---- |
+| **Llama 2** | 2023/7/18 | Llama 2: Open Foundation and Fine-Tuned Chat Models<br /><br />Llama 2，这是一组经过预训练和微调的大型语言模型 (LLM)，其参数规模从 70 亿到 700 亿不等。 经过微调的LLM（称为 Llama 2-Chat）针对对话用例进行了优化。 该模型在大多数基准上都优于开源聊天模型，并且根据我们对有用性和安全性的人工评估，可**能是闭源模型的合适替代品**，可以商用！ | [[Paper](https://scontent-xsp1-2.xx.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX9hDpyS&_nc_ht=scontent-xsp1-2.xx&oh=00_AfBUQYu1wRQy--8QIA6-FE92qweOheEwGaOvFuEC-R9g4w&oe=64BBB691)] | [[Code](https://ai.meta.com/llama/)]                | /    |
+| **LIMA**    | 2023      | LIMA: Less Is More for Alignment<br /><br />在没有任何RLHF的情况下，使用1000个精心筛选的提示和响应**「对LLaMA-65B进行微调得到了LIMA模型」**，实验表明该模型展现出了非常强大的性能，最后作者指出**几乎所有大型语言模型的知识都是在预训练期间学习的，仅需要有限的指导调整数据来教模型产生高质量的输出**。 |       [[Paper](https://arxiv.org/pdf/2305.11206.pdf)]        | /                                                   | /    |
+| **LLaMA**   | 2023      | LLaMA: Open and Efficient Foundation Language Models<br /><br />LLaMA是Meta发布的一组基础语言模型，参数范围从 7B 到 65B，使用公开可用的数据集来训练最先进的模型。 LLaMA-13B 在大多数基准测试中都优于 GPT-3 (175B)，而 LLaMA-65B 可与最佳模型 Chinchilla-70B 和 PaLM-540B 竞争。 |         [[Paper](https://arxiv.org/abs/2302.13971)]          | [[Code](https://github.com/facebookresearch/llama)] | /    |
+
+
 
 
 
